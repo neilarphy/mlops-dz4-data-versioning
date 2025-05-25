@@ -1,0 +1,5 @@
+[core]
+    remote = mlopsremote
+['remote "mlopsremote"']
+    url = s3://bannikov/data_versioning
+    endpointurl =  http://89.223.69.137:9000

@@ -1,0 +1,10 @@
+model.pkl
+*.csv
+*.log
+logs/
+__pycache__/
+.env
+*.json
+
+.venv
+/data
